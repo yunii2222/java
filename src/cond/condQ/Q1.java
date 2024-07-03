@@ -1,4 +1,4 @@
-package cond;
+package cond.condQ;
 
 public class Q1 {
     public static void main(String[] args) {
