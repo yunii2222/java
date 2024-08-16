@@ -11,6 +11,7 @@ public class MethodReturn2 {
             //반환타입이 있던 없던 return을 만나면 메서드가 끝난다.
             return;
         }
+
         System.out.println(age+"살, 입장하세요.");
     }
 }
