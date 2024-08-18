@@ -53,6 +53,5 @@ public class Q4 {
             }
             return balance;
         }
-    }
 
 }
