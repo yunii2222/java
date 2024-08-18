@@ -1,8 +1,6 @@
 package method.methodQ;
 
 import java.util.Scanner;
-import static method.methodQ.Q3.deposit;
-import static method.methodQ.Q3.withdraw;
 
 public class Q4 {
     public static void main(String[] args) {
